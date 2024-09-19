@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+black
+llama-index-llms-openai
+llama-index
